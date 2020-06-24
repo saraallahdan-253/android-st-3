@@ -1,0 +1,6 @@
+https://stackoverflow.com/questions/14200259/how-can-i-solve-r-layout-main-cannot-be-resolved-in-my-android-apps
+
+
+https://stackoverflow.com/questions/37015030/session-app-error-installing-apk
+
+https://stackoverflow.com/questions/218384/what-is-a-nullpointerexception-and-how-do-i-fix-it
